@@ -14,6 +14,8 @@ toc:
     path: /shardy/sharding_representation
   - title: Propagation
     path: /shardy/propagation
+  - title: Data flow edge ops
+    path: /shardy/data_flow_edge_ops
   - title: Compiler API
     path: /shardy/compiler_api
 - title: Reference documentation
